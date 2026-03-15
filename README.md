@@ -176,25 +176,25 @@ The interface uses **Flexbox and CSS Grid** to provide a responsive layout that 
 ## Screenshots
 
 ### Tasks
-![Tasks](screenshots/task.png)
+![Tasks](src/screenshots/task.png)
 
 ### Completed Task
-![Completed Task](screenshots/completed_task.png)
+![Completed Task](src/screenshots/completed_task.png)
 
 ### Deleted Task
-![Deleted Task](screenshots/delete_task.png)
+![Deleted Task](src/screenshots/delete_task.png)
 
 ### Edit Mode
-![Edit Mode](screenshots/edit_task.png)
+![Edit Mode](src/screenshots/edit_task.png)
 
 ### Search Task
-![Search Task](screenshots/search_task.png)
+![Search Task](src/screenshots/search_task.png)
 
 ### Empty State
-![Empty State](screenshots/no_task_found.png)
+![Empty State](src/screenshots/no_task_found.png)
 
 ### Theme
-![Theme](screenshots/task_theme.png)
+![Theme](src/screenshots/task_theme.png)
 
 
 
